@@ -23,7 +23,6 @@ var typed = new Typed(".text-type", {
     "Web Developer",
     "Java Developer",
     "Programmer",
-    "Open Source Contributor",
   ],
   typeSpeed: 100,
   // backSpeed: 150,
